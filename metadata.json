@@ -1,0 +1,7 @@
+{
+  "name": "Anjali Voice Changer",
+  "description": "Real-time AI voice conversion into a 19-year-old Indian girl persona using Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
